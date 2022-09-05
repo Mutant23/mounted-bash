@@ -1,2 +1,1 @@
-"# -Bash" 
-"# mounted-bash" 
+# mounted-bash
